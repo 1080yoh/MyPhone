@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_margin_16dp">16dp</dimen>
+    <dimen name="divider_height">5dp</dimen>
+    <dimen name="font_call_history_contact_name">22sp</dimen>
+    <dimen name="font_call_history_phone_number">18sp</dimen>
+    <dimen name="header_padding_8dp">6dp</dimen>
+</resources>

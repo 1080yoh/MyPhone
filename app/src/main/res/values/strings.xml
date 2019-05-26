@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Phone</string>
+    <string name="contact">Contact</string>
+    <string name="phone_number">Phone number</string>
+    <string name="today">Today</string>
+    <string name="title_tab_call_history">Call history</string>
+</resources>
